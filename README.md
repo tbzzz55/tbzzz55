@@ -2,6 +2,12 @@
   <img src="https://count.getloli.com/@tbprofilevisitors?name=tbprofilevisitors&theme=booru-lewd" height="100">
 </div>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&color=38BDF8&center=true&vCenter=true&width=600&lines=Welcome+to+my+Github+profile!" />
+</p>
+
+<hr>
+
 #### Operating Systems
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
