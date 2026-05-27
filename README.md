@@ -26,6 +26,10 @@
 ![Assembly](https://img.shields.io/badge/Assembly-FFFF?style=for-the-badge&logo=assembly&logoColor=white&labelColor=000000)
 ![WebAssembly](https://img.shields.io/badge/webassembly-%23654FF0.svg?style=for-the-badge&logo=webassembly&logoColor=white)
 
+### Debuggers
+![GDB](https://img.shields.io/badge/GDB-FF0000?style=for-the-badge&logo=gnu&logoColor=white&labelColor=000000)
+![Apktool](https://img.shields.io/badge/Apktool-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=000000)
+
 #### IDEs/Editors
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
@@ -38,6 +42,7 @@
 #### Cloud Storage
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 ![Mega.nz](https://img.shields.io/badge/Mega-%23D90007.svg?style=for-the-badge&logo=Mega&logoColor=white)
+![Proton Drive](https://img.shields.io/badge/Proton%20Drive-6d4aff?style=for-the-badge&logo=proton%20drive&logoColor=white)
 
 #### Cryptocurrency
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
